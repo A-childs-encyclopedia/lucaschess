@@ -1,7 +1,7 @@
-Lucas Chess (R)
+Lucas Chess 
 ==============
 
-Lucas Chess (R) is a GUI of chess:
+Lucas Chess is a GUI of chess:
 
 1. To train in many different ways.
 2. To play chess against any UCI engine.
